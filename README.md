@@ -6,6 +6,8 @@ Cocoapods Supported. Please describe the following in your Podfile.
 
 pod 'UIColorWebColorExtention', :git => 'https://github.com/notoroid/UIColorWebColorExtention.git'
 
-cocoapod install or
+cocoapod install
+
+or
 
 cocoapod update open [yourproject].xcworkspace
