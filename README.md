@@ -1,8 +1,8 @@
 # UIColorWebColorExtention
 UIColorWebColorExtention is an extension of the order that you specify in the WebColor the UIColor. You can use immediately in projects using swift. - UIColorWebColorExtention はUIColor をWebColorで指定するための拡張機能です。swift を使ったプロジェクトですぐに利用することができます。
 
-    var color = UIColor(rgba: "#ffcc00") // #rrbbgg
-    var color2 = UIColor(rgba: "#fc0") // #rgb
+    var color = UIColor(webcolor: "#ffcc00") // #rrbbgg
+    var color2 = UIColor(webcolor: "#fc0") // #rgb
 
 #Usage
 Cocoapods Supported. Please describe the following in your Podfile.
