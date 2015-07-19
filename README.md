@@ -10,4 +10,7 @@ cocoapod install
 
 or
 
-cocoapod update open [yourproject].xcworkspace
+cocoapod update
+
+
+open [yourproject].xcworkspace
